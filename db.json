@@ -1,0 +1,15 @@
+{
+  "monitor": {
+    "status": "ok"
+  },
+  "profile": {
+    "id": 72533,
+    "email": "Hugo88@yahoo.fr",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jehnglynn/128.jpg",
+    "firstName": "Lucas",
+    "lastName": "Guyot"
+  },
+  "logout": {
+    "status": "ok"
+  }
+}
